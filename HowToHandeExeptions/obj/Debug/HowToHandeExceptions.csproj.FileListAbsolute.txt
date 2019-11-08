@@ -1,0 +1,5 @@
+C:\Users\Laptop\source\repos\ConsoleApp2\HowToHandeExeptions\bin\Debug\HowToHandeExeptions.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp2\HowToHandeExeptions\bin\Debug\HowToHandeExeptions.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\HowToHandeExeptions\bin\Debug\HowToHandeExeptions.pdb
+C:\Users\Laptop\source\repos\ConsoleApp2\HowToHandeExeptions\obj\Debug\HowToHandeExeptions.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\HowToHandeExeptions\obj\Debug\HowToHandeExeptions.pdb

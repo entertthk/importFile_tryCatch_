@@ -1,0 +1,5 @@
+C:\Users\Laptop\source\repos\ConsoleApp2\getAge\bin\Debug\getAge.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp2\getAge\bin\Debug\getAge.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\getAge\bin\Debug\getAge.pdb
+C:\Users\Laptop\source\repos\ConsoleApp2\getAge\obj\Debug\getAge.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\getAge\obj\Debug\getAge.pdb

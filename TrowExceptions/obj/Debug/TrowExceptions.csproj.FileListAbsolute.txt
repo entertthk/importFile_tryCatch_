@@ -1,0 +1,6 @@
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\bin\Debug\TrowExceptions.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\bin\Debug\TrowExceptions.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\bin\Debug\TrowExceptions.pdb
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\obj\Debug\TrowExceptions.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\obj\Debug\TrowExceptions.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\TrowExceptions\obj\Debug\TrowExceptions.pdb

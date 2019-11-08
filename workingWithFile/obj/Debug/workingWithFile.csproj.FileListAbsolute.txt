@@ -1,0 +1,6 @@
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\bin\Debug\workingWithFile.exe.config
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\bin\Debug\workingWithFile.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\bin\Debug\workingWithFile.pdb
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\obj\Debug\workingWithFile.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\obj\Debug\workingWithFile.exe
+C:\Users\Laptop\source\repos\ConsoleApp2\workingWithFile\obj\Debug\workingWithFile.pdb
